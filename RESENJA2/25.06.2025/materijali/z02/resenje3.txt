@@ -1,0 +1,26 @@
+algoritam: -camellia-128-cbc, rezultat: û dF}ê$‘U¨]¥è
+algoritam: -camellia-128-cfb, rezultat: ÁD…Âyì|·æÙø{[
+algoritam: -camellia-128-cfb1, rezultat: úV¨CòÂ-«PÆ,k\|yŒ
+algoritam: -camellia-128-cfb8, rezultat: ÁlÀ·Õ³BÑYFiR{ò
+algoritam: -camellia-128-ctr, rezultat: ÁD…Âyì|·æÙøp
+algoritam: -camellia-128-ecb, rezultat: •CÔË¬qMG2~ıÿ
+algoritam: -camellia-128-ofb, rezultat: ÁD…Âyì|·æÙø
+algoritam: -camellia-192-cbc, rezultat: ©“Ö<î/]K¼×Éò§ˆ%Ï
+algoritam: -camellia-192-cfb, rezultat: Ulazni sadrzaj 5ù
+algoritam: -camellia-192-cfb1, rezultat: f¸î¨Ö+SÌi%¯gj»¿
+algoritam: -camellia-192-cfb8, rezultat: U•å ®i›
+5¨	ãÂY
+algoritam: -camellia-192-ctr, rezultat: Ulazni sadrzaj 5Mô
+algoritam: -camellia-192-ecb, rezultat: üOœÓÏ\‰¹o 4Cª	
+algoritam: -camellia-192-ofb, rezultat: Ulazni sadrzaj 55
+algoritam: -camellia-256-cbc, rezultat: Á3‡iáÛ|óˆ uÚ’9
+algoritam: -camellia-256-cfb, rezultat: \ñDñìËa Ê³5ï`t Ë
+algoritam: -camellia-256-cfb1, rezultat: 	ÛY§ŠlÎ×¥QW$L>
+algoritam: -camellia-256-cfb8, rezultat: \Lœó|îü¢ä0@ 
+algoritam: -camellia-256-ctr, rezultat: \ñDñìËa Ê³5ï`t%ä
+algoritam: -camellia-256-ecb, rezultat: ôó•Uú*Tº8üä© ff
+algoritam: -camellia-256-ofb, rezultat: \ñDñìËa Ê³5ï`t
+
+algoritam: -camellia128, rezultat: û dF}ê$‘U¨]¥è
+algoritam: -camellia192, rezultat: ©“Ö<î/]K¼×Éò§ˆ%Ï
+algoritam: -camellia256, rezultat: Á3‡iáÛ|óˆ uÚ’9

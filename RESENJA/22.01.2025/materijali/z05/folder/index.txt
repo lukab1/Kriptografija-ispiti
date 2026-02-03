@@ -1,0 +1,1 @@
+V	360116132112Z		01	unknown	/C=BA/ST=Republika Srpska/L=Banja Luka/O=Elektrotehnicki fakultet/OU=Katedra za racunarstvo i informatiku/CN=Client1/emailAddress=client1@gmail.com

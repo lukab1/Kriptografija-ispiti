@@ -1,0 +1,2 @@
+V	360113111026Z		37	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_ETF/CN=DLKSFJ
+V	270115111237Z		36	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_ETF/CN=KDSJFS

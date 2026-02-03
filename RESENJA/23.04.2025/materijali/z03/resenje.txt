@@ -1,0 +1,1 @@
+datoteka: ulaz37.txt , otisak: otisak6.txt, algoritam: -shake256

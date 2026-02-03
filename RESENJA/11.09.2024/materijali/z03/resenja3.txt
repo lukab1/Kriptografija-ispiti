@@ -1,0 +1,111 @@
+rezultat_-aes-128-cbc : ¸¥ ‡#½±a¨êG}ƒ”û)
+rezultat_-aes-128-cfb : y
+<MÓ¬qvöTI½÷ë=ºsêİ˜A
+rezultat_-aes-128-cfb1 : `Fª&oÚu4?PÍC±Çô˜‘ª¨?¡
+rezultat_-aes-128-cfb8 : ÑÄ™x€Dµƒ¤ ÛŸ!f°å´<, el7
+rezultat_-aes-128-ctr : ”D0‡.¸Î3i™ª'¿X_âÒÖ¾5
+rezultat_-aes-128-ecb : Vºa’ˆoËmÛ?
+rezultat_-aes-128-ofb : MC¼
+pï‹¶—À­—v‰0;«H
+rezultat_-aes-192-cbc : 0gS!…%‹3±œ¬ˆ>
+rezultat_-aes-192-cfb : ‡Fm‹©ßdÎå~)úß‹Q¹”Ï,Ö
+rezultat_-aes-192-cfb1 : -·gEÆ–•VP4œ‰„ZØ/˜ö–
+rezultat_-aes-192-cfb8 : «8á—%Å‘'Tw)Rqã·í™ã2T?
+rezultat_-aes-192-ctr : Ö£%§Šà¹~¦³:«¢:¥Tãi$S.
+rezultat_-aes-192-ecb : uš§	Zİp^m€%SyZXà
+rezultat_-aes-192-ofb : 3MŞ_ğpú)J!mN
+Y
+^—¸»
+rezultat_-aes-256-cbc : 3 §)ı—57·4UÜ+«
+rezultat_-aes-256-cfb : *$;º’6=ÛÏà4"u« ïØSşDyl
+rezultat_-aes-256-cfb1 : ÈÉ/1]z“á~ñÿI0İÖ…x¿‘õ³ 7
+rezultat_-aes-256-cfb8 : 5]Sø2€›Ã¤9™¹ƒºX¹ÑqC²6
+rezultat_-aes-256-ctr : ë*ğÓŒf…vD]—•:¥Pâ¹È
+rezultat_-aes-256-ecb : ¡]Ó$½©q«bÙ´¾¸Ñ
+rezultat_-aes-256-ofb : yCa#FÕ9Vú€ûËsAf6˜È¡
+rezultat_-aes128 : jŸâ´XáÁá¼¡
+rezultat_-aes128-wrap : 
+rezultat_-aes192 : ùĞ°Ïöä·jµ=D
+rezultat_-aes192-wrap : 
+rezultat_-aes256 :  }–®â_1“u
+rezultat_-aes256-wrap : 
+rezultat_-id-aes128-wrap : 
+rezultat_-id-aes128-wrap-pad : 
+rezultat_-id-aes192-wrap : 
+rezultat_-id-aes192-wrap-pad : 
+rezultat_-id-aes256-wrap : 
+rezultat_-id-aes256-wrap-pad : 
+rezultat_-aes-128-cbc : ¸¥ ‡#½±a¨êG}ƒ”û)
+rezultat_-aes-128-cfb : y
+<MÓ¬qvöTI½÷ë=ºsêİ˜A
+rezultat_-aes-128-cfb1 : `Fª&oÚu4?PÍC±Çô˜‘ª¨?¡
+rezultat_-aes-128-cfb8 : ÑÄ™x€Dµƒ¤ ÛŸ!f°å´<, el7
+rezultat_-aes-128-ctr : ”D0‡.¸Î3i™ª'¿X_âÒÖ¾5
+rezultat_-aes-128-ecb : Vºa’ˆoËmÛ?
+rezultat_-aes-128-ofb : MC¼
+pï‹¶—À­—v‰0;«H
+rezultat_-aes-192-cbc : 0gS!…%‹3±œ¬ˆ>
+rezultat_-aes-192-cfb : ‡Fm‹©ßdÎå~)úß‹Q¹”Ï,Ö
+rezultat_-aes-192-cfb1 : -·gEÆ–•VP4œ‰„ZØ/˜ö–
+rezultat_-aes-192-cfb8 : «8á—%Å‘'Tw)Rqã·í™ã2T?
+rezultat_-aes-192-ctr : Ö£%§Šà¹~¦³:«¢:¥Tãi$S.
+rezultat_-aes-192-ecb : uš§	Zİp^m€%SyZXà
+rezultat_-aes-192-ofb : 3MŞ_ğpú)J!mN
+Y
+^—¸»
+rezultat_-aes-256-cbc : 3 §)ı—57·4UÜ+«
+rezultat_-aes-256-cfb : *$;º’6=ÛÏà4"u« ïØSşDyl
+rezultat_-aes-256-cfb1 : ÈÉ/1]z“á~ñÿI0İÖ…x¿‘õ³ 7
+rezultat_-aes-256-cfb8 : 5]Sø2€›Ã¤9™¹ƒºX¹ÑqC²6
+rezultat_-aes-256-ctr : ë*ğÓŒf…vD]—•:¥Pâ¹È
+rezultat_-aes-256-ecb : ¡]Ó$½©q«bÙ´¾¸Ñ
+rezultat_-aes-256-ofb : yCa#FÕ9Vú€ûËsAf6˜È¡
+rezultat_-aes128 : jŸâ´XáÁá¼¡
+rezultat_-aes128-wrap : 
+rezultat_-aes192 : ùĞ°Ïöä·jµ=D
+rezultat_-aes192-wrap : 
+rezultat_-aes256 :  }–®â_1“u
+rezultat_-aes256-wrap : 
+rezultat_-id-aes128-wrap : 
+rezultat_-id-aes128-wrap-pad : 
+rezultat_-id-aes192-wrap : 
+rezultat_-id-aes192-wrap-pad : 
+rezultat_-id-aes256-wrap : 
+rezultat_-id-aes256-wrap-pad : 
+rezultat_-aes-128-cbc : ¸¥ ‡#½±a¨êG}ƒ”û)
+rezultat_-aes-128-cfb : y
+<MÓ¬qvöTI½÷ë=ºsêİ˜A
+rezultat_-aes-128-cfb1 : `Fª&oÚu4?PÍC±Çô˜‘ª¨?¡
+rezultat_-aes-128-cfb8 : ÑÄ™x€Dµƒ¤ ÛŸ!f°å´<, el7
+rezultat_-aes-128-ctr : ”D0‡.¸Î3i™ª'¿X_âÒÖ¾5
+rezultat_-aes-128-ecb : Vºa’ˆoËmÛ?
+rezultat_-aes-128-ofb : MC¼
+pï‹¶—À­—v‰0;«H
+rezultat_-aes-192-cbc : 0gS!…%‹3±œ¬ˆ>
+rezultat_-aes-192-cfb : ‡Fm‹©ßdÎå~)úß‹Q¹”Ï,Ö
+rezultat_-aes-192-cfb1 : -·gEÆ–•VP4œ‰„ZØ/˜ö–
+rezultat_-aes-192-cfb8 : «8á—%Å‘'Tw)Rqã·í™ã2T?
+rezultat_-aes-192-ctr : Ö£%§Šà¹~¦³:«¢:¥Tãi$S.
+rezultat_-aes-192-ecb : uš§	Zİp^m€%SyZXà
+rezultat_-aes-192-ofb : 3MŞ_ğpú)J!mN
+Y
+^—¸»
+rezultat_-aes-256-cbc : 3 §)ı—57·4UÜ+«
+rezultat_-aes-256-cfb : *$;º’6=ÛÏà4"u« ïØSşDyl
+rezultat_-aes-256-cfb1 : ÈÉ/1]z“á~ñÿI0İÖ…x¿‘õ³ 7
+rezultat_-aes-256-cfb8 : 5]Sø2€›Ã¤9™¹ƒºX¹ÑqC²6
+rezultat_-aes-256-ctr : ë*ğÓŒf…vD]—•:¥Pâ¹È
+rezultat_-aes-256-ecb : ¡]Ó$½©q«bÙ´¾¸Ñ
+rezultat_-aes-256-ofb : yCa#FÕ9Vú€ûËsAf6˜È¡
+rezultat_-aes128 : jŸâ´XáÁá¼¡
+rezultat_-aes128-wrap : 
+rezultat_-aes192 : ùĞ°Ïöä·jµ=D
+rezultat_-aes192-wrap : 
+rezultat_-aes256 :  }–®â_1“u
+rezultat_-aes256-wrap : 
+rezultat_-id-aes128-wrap : 
+rezultat_-id-aes128-wrap-pad : 
+rezultat_-id-aes192-wrap : 
+rezultat_-id-aes192-wrap-pad : 
+rezultat_-id-aes256-wrap : 
+rezultat_-id-aes256-wrap-pad : 

@@ -1,0 +1,3 @@
+ulaz: ulaz22.txt , otisak: dec_otisak2.txt
+ulaz: ulaz23.txt , otisak: dec_otisak1.txt
+ulaz: ulaz22.txt , otisak: dec_otisak2.txt

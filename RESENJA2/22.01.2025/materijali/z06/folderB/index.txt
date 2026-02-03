@@ -1,0 +1,2 @@
+V	360122111832Z		01	unknown	/C=BA/ST=Republika Srpska/L=Banja Luka/O=Elektrotehnicki fakultet/OU=Katedra za racunarstvo i informatiku/CN=client1/emailAddress=client1@etf.conm
+R	360122111938Z	260124112135Z,cessationOfOperation	02	unknown	/C=BA/ST=Republika Srpska/L=Banja Luka/O=Elektrotehnicki fakultet/OU=Katedra za racunarstvo i informatiku/CN=client2/emailAddress=client2@etf.com

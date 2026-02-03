@@ -1,0 +1,2 @@
+V	311215145010Z		A1	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/L=Banja Luka/CN=LUKA/emailAddress=SKDJF@LI.GMAIL/pseudonym=PSEUDONIM
+V	260716145313Z		B2	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/L=Banja Luka/CN=kdsjfks/emailAddress=lkdsfjsdkf/pseudonym=lskfdkdsf

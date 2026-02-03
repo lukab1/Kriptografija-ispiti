@@ -1,0 +1,1 @@
+otisak: otisak07.txt

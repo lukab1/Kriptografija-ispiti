@@ -1,0 +1,1051 @@
+rezultat_AES-128-CBC : 
+rezultat_AES-128-CBC-HMAC-SHA1 : 
+rezultat_AES-128-CBC-HMAC-SHA256 : 
+rezultat_id-aes128-CCM : 
+rezultat_AES-128-CFB : 
+rezultat_AES-128-CFB1 : 
+rezultat_AES-128-CFB8 : 
+rezultat_AES-128-CTR : 
+rezultat_AES-128-ECB : 
+rezultat_id-aes128-GCM : 
+rezultat_AES-128-OCB : 
+rezultat_AES-128-OFB : 
+rezultat_AES-128-XTS : 
+rezultat_AES-192-CBC : 
+rezultat_id-aes192-CCM : 
+rezultat_AES-192-CFB : 
+rezultat_AES-192-CFB1 : 
+rezultat_AES-192-CFB8 : 
+rezultat_AES-192-CTR : 
+rezultat_AES-192-ECB : 
+rezultat_id-aes192-GCM : 
+rezultat_AES-192-OCB : 
+rezultat_AES-192-OFB : 
+rezultat_AES-256-CBC : 
+rezultat_AES-256-CBC-HMAC-SHA1 : 
+rezultat_AES-256-CBC-HMAC-SHA256 : 
+rezultat_id-aes256-CCM : 
+rezultat_AES-256-CFB : 
+rezultat_AES-256-CFB1 : 
+rezultat_AES-256-CFB8 : 
+rezultat_AES-256-CTR : 
+rezultat_AES-256-ECB : 
+rezultat_id-aes256-GCM : 
+rezultat_AES-256-OCB : 
+rezultat_AES-256-OFB : 
+rezultat_AES-256-XTS : 
+rezultat_aes128 : 
+rezultat_=> : 
+rezultat_AES-128-CBC : 
+rezultat_aes128-wrap : 
+rezultat_=> : 
+rezultat_id-aes128-wrap : 
+rezultat_aes192 : 
+rezultat_=> : 
+rezultat_AES-192-CBC : 
+rezultat_aes192-wrap : 
+rezultat_=> : 
+rezultat_id-aes192-wrap : 
+rezultat_aes256 : 
+rezultat_=> : 
+rezultat_AES-256-CBC : 
+rezultat_aes256-wrap : 
+rezultat_=> : 
+rezultat_id-aes256-wrap : 
+rezultat_id-aes128-CCM : 
+rezultat_id-aes128-GCM : 
+rezultat_id-aes128-wrap : 
+rezultat_id-aes128-wrap-pad : 
+rezultat_id-aes192-CCM : 
+rezultat_id-aes192-GCM : 
+rezultat_id-aes192-wrap : 
+rezultat_id-aes192-wrap-pad : 
+rezultat_id-aes256-CCM : 
+rezultat_id-aes256-GCM : 
+rezultat_id-aes256-wrap : 
+rezultat_id-aes256-wrap-pad : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.47, : 
+rezultat_aes-256-ccm, : 
+rezultat_id-aes256-CCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.3, : 
+rezultat_AES-128-OFB : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.1, : 
+rezultat_AES-128-ECB : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.46, : 
+rezultat_aes-256-gcm, : 
+rezultat_id-aes256-GCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.24, : 
+rezultat_AES-192-CFB : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.5, : 
+rezultat_AES-128-WRAP, : 
+rezultat_AES128-WRAP, : 
+rezultat_id-aes128-wrap : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_1.3.111.2.1619.0.1.1, : 
+rezultat_AES-128-XTS : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.4, : 
+rezultat_AES-128-CFB : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.6, : 
+rezultat_aes-128-gcm, : 
+rezultat_id-aes128-GCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.42, : 
+rezultat_AES-256-CBC, : 
+rezultat_AES256 : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.45, : 
+rezultat_AES-256-WRAP, : 
+rezultat_AES256-WRAP, : 
+rezultat_id-aes256-wrap : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.27, : 
+rezultat_aes-192-ccm, : 
+rezultat_id-aes192-CCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.43, : 
+rezultat_AES-256-OFB : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.44, : 
+rezultat_AES-256-CFB : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.7, : 
+rezultat_aes-128-ccm, : 
+rezultat_id-aes128-CCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.26, : 
+rezultat_aes-192-gcm, : 
+rezultat_id-aes192-GCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.8, : 
+rezultat_AES-128-WRAP-PAD, : 
+rezultat_AES128-WRAP-PAD, : 
+rezultat_id-aes128-wrap-pad : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.41, : 
+rezultat_AES-256-ECB : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.22, : 
+rezultat_AES-192-CBC, : 
+rezultat_AES192 : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.21, : 
+rezultat_AES-192-ECB : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.48, : 
+rezultat_AES-256-WRAP-PAD, : 
+rezultat_AES256-WRAP-PAD, : 
+rezultat_id-aes256-wrap-pad : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.25, : 
+rezultat_AES-192-WRAP, : 
+rezultat_AES192-WRAP, : 
+rezultat_id-aes192-wrap : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.2, : 
+rezultat_AES-128-CBC, : 
+rezultat_AES128 : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.23, : 
+rezultat_AES-192-OFB : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_1.3.111.2.1619.0.1.2, : 
+rezultat_AES-256-XTS : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.28, : 
+rezultat_AES-192-WRAP-PAD, : 
+rezultat_AES192-WRAP-PAD, : 
+rezultat_id-aes192-wrap-pad : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC-CTS : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CBC-CTS : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CBC-CTS : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CFB1 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CFB1 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CFB1 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CFB8 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CFB8 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CFB8 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CTR : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CTR : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CTR : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-OCB : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-OCB : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-OCB : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-SIV : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-SIV : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-SIV : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-256-WRAP-INV, : 
+rezultat_AES256-WRAP-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-192-WRAP-INV, : 
+rezultat_AES192-WRAP-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-128-WRAP-INV, : 
+rezultat_AES128-WRAP-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-256-WRAP-PAD-INV, : 
+rezultat_AES256-WRAP-PAD-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-192-WRAP-PAD-INV, : 
+rezultat_AES192-WRAP-PAD-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-128-WRAP-PAD-INV, : 
+rezultat_AES128-WRAP-PAD-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC-HMAC-SHA1 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CBC-HMAC-SHA1 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC-HMAC-SHA256 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CBC-HMAC-SHA256 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC : 9¶@(MC]G—ˇx‡q˝aæ›<"Ï’;
+rezultat_AES-128-CBC-HMAC-SHA1 : 
+rezultat_AES-128-CBC-HMAC-SHA256 : 
+rezultat_id-aes128-CCM : 
+rezultat_AES-128-CFB : Bì:ñú»∂ó˜jY¯≈èöÒÄ›cå∆&õK:3Û´=ˆ„“†û˛çı
+rezultat_AES-128-CFB1 : ≥ÒâäÖÚ~SßÒv}äõæ@Œó.Ë\54∞ã©…0+¸ºü=1¯
+rezultat_AES-128-CFB8 : u8\|kqV˝†Y2Ì‰¶äﬂõÆùÿpÆ÷IùÛóL¨Ú"?œ∑
+rezultat_AES-128-CTR : Æ÷z:s“>ÔËNás·ÃØ<I>∂†™ò£óHí6Ná≠˘_°Yékäó∏
+rezultat_AES-128-ECB : ƒıKr_Ø6Ü9ŒJgVI]ñ˘(Liº¢∞Ùü~ÈÑ›
+rezultat_id-aes128-GCM : 
+rezultat_AES-128-OCB : 
+rezultat_AES-128-OFB : ∏å„Wí±∂Ω€Jg«ôû≠˛p∑HPÙAgÇê8˛&•≤/Á·Eq
+rezultat_AES-128-XTS : 
+rezultat_AES-192-CBC : !r{{@“èı|5√L”J
+√∆§1¡)Rä}3Ω[ß
+rezultat_id-aes192-CCM : 
+rezultat_AES-192-CFB : u0’$¯≤(≈Ó™¬ÃÉqMB´–T«Qª»N¨ƒIÕz‘&<ì”…+
+rezultat_AES-192-CFB1 : ç¥∂∫√ïåËâ“Ô⁄◊{{øÿ±ŸægπÖù¿]ásZ8}GXÊû
+rezultat_AES-192-CFB8 : Ωs‡Ï…6NY√û›Œímî–ãEu∫}Ω«€•lF∑¡,π§C‚a·
+rezultat_AES-192-CTR : í”\p—B¶‹ﬂ=ò·+´:Ÿ‡ˆcyÊ™Ω´	D∆ÒEÒ˚¡VÁƒ”
+rezultat_AES-192-ECB : äÿ◊^˙±[AY≥4ÌâõAÒMA%¬™íQ–≠ãñ}v
+rezultat_id-aes192-GCM : 
+rezultat_AES-192-OCB : 
+rezultat_AES-192-OFB : ¬ﬁò˜Ã(ÑM˛Äyø{;ﬁ àDÓ√}_!CÛôÉà£	¸;w–ù
+rezultat_AES-256-CBC : x‰ã?¶-ÇgÖÁn‡!ﬂ=íÊ÷ÄNµ46P‘˛≤a
+rezultat_AES-256-CBC-HMAC-SHA1 : 
+rezultat_AES-256-CBC-HMAC-SHA256 : 
+rezultat_id-aes256-CCM : 
+rezultat_AES-256-CFB : ÈÔGQML^–⁄xué⁄ãÏ£W,qH¢JÑI{VéVM{˙',Âãà
+rezultat_AES-256-CFB1 : âEˇê`˙‡‰∏§øπ‰%éJÏ6?‹¿ü&ø.kL“
+IQ⁄⁄ﬁ
+rezultat_AES-256-CFB8 : ÔÎ`s•gøF6R_ó∑qwû˙¿T¢“Ü,≠	t@â2ëˇﬂÉê
+rezultat_AES-256-CTR : ™4-Î¸DFÚ ;âX”;ØA‘–8G∑sˆsëY
+0yCOhıΩ˙ã
+rezultat_AES-256-ECB : A}ÿ|Ëµíe3	â^Mù˛ö[¥QLÑL¡a_Dìm≈1
+rezultat_id-aes256-GCM : 
+rezultat_AES-256-OCB : 
+rezultat_AES-256-OFB : ∆mHwÒ;Áô$m“%Èõt$#[(è˘∫+tY5ojXŒ5
+π
+rezultat_AES-256-XTS : 
+rezultat_aes128 : 4Â~:?ˆ∂ç¢ì™≠ÿ‰Â˜<ã:Å√¡ÕçÍÕµ
+rezultat_=> : 
+rezultat_AES-128-CBC : 9¶@(MC]G—ˇx‡q˝aæ›<"Ï’;
+rezultat_aes128-wrap : 
+rezultat_=> : 
+rezultat_id-aes128-wrap : 
+rezultat_aes192 : ÄÁs¬Qƒ{<3
+ßÇ	\±E†Eä®6ºaÀo˚
+rezultat_=> : 
+rezultat_AES-192-CBC : !r{{@“èı|5√L”J
+√∆§1¡)Rä}3Ω[ß
+rezultat_aes192-wrap : 
+rezultat_=> : 
+rezultat_id-aes192-wrap : 
+rezultat_aes256 : ]Cˆ˚öâzµ5âuΩ—tø∫uöxdPf~˜’ﬂ(î·À
+rezultat_=> : 
+rezultat_AES-256-CBC : x‰ã?¶-ÇgÖÁn‡!ﬂ=íÊ÷ÄNµ46P‘˛≤a
+rezultat_aes256-wrap : 
+rezultat_=> : 
+rezultat_id-aes256-wrap : 
+rezultat_id-aes128-CCM : 
+rezultat_id-aes128-GCM : 
+rezultat_id-aes128-wrap : 
+rezultat_id-aes128-wrap-pad : 
+rezultat_id-aes192-CCM : 
+rezultat_id-aes192-GCM : 
+rezultat_id-aes192-wrap : 
+rezultat_id-aes192-wrap-pad : 
+rezultat_id-aes256-CCM : 
+rezultat_id-aes256-GCM : 
+rezultat_id-aes256-wrap : 
+rezultat_id-aes256-wrap-pad : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.47, : 
+rezultat_aes-256-ccm, : 
+rezultat_id-aes256-CCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.3, : 
+rezultat_AES-128-OFB : ∏å„Wí±∂Ω€Jg«ôû≠˛p∑HPÙAgÇê8˛&•≤/Á·Eq
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.1, : 
+rezultat_AES-128-ECB : ƒıKr_Ø6Ü9ŒJgVI]ñ˘(Liº¢∞Ùü~ÈÑ›
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.46, : 
+rezultat_aes-256-gcm, : 
+rezultat_id-aes256-GCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.24, : 
+rezultat_AES-192-CFB : u0’$¯≤(≈Ó™¬ÃÉqMB´–T«Qª»N¨ƒIÕz‘&<ì”…+
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.5, : 
+rezultat_AES-128-WRAP, : 
+rezultat_AES128-WRAP, : 
+rezultat_id-aes128-wrap : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_1.3.111.2.1619.0.1.1, : 
+rezultat_AES-128-XTS : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.4, : 
+rezultat_AES-128-CFB : Bì:ñú»∂ó˜jY¯≈èöÒÄ›cå∆&õK:3Û´=ˆ„“†û˛çı
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.6, : 
+rezultat_aes-128-gcm, : 
+rezultat_id-aes128-GCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.42, : 
+rezultat_AES-256-CBC, : 
+rezultat_AES256 : G∫2VèW!õìÎmúó¯Ç=(⁄á19r
+¬+m
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.45, : 
+rezultat_AES-256-WRAP, : 
+rezultat_AES256-WRAP, : 
+rezultat_id-aes256-wrap : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.27, : 
+rezultat_aes-192-ccm, : 
+rezultat_id-aes192-CCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.43, : 
+rezultat_AES-256-OFB : ∆mHwÒ;Áô$m“%Èõt$#[(è˘∫+tY5ojXŒ5
+π
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.44, : 
+rezultat_AES-256-CFB : ÈÔGQML^–⁄xué⁄ãÏ£W,qH¢JÑI{VéVM{˙',Âãà
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.7, : 
+rezultat_aes-128-ccm, : 
+rezultat_id-aes128-CCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.26, : 
+rezultat_aes-192-gcm, : 
+rezultat_id-aes192-GCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.8, : 
+rezultat_AES-128-WRAP-PAD, : 
+rezultat_AES128-WRAP-PAD, : 
+rezultat_id-aes128-wrap-pad : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.41, : 
+rezultat_AES-256-ECB : A}ÿ|Ëµíe3	â^Mù˛ö[¥QLÑL¡a_Dìm≈1
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.22, : 
+rezultat_AES-192-CBC, : 
+rezultat_AES192 : mmˆIrºo¶∫>&˛ç◊é˛XL35ëËLçï
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.21, : 
+rezultat_AES-192-ECB : äÿ◊^˙±[AY≥4ÌâõAÒMA%¬™íQ–≠ãñ}v
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.48, : 
+rezultat_AES-256-WRAP-PAD, : 
+rezultat_AES256-WRAP-PAD, : 
+rezultat_id-aes256-wrap-pad : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.25, : 
+rezultat_AES-192-WRAP, : 
+rezultat_AES192-WRAP, : 
+rezultat_id-aes192-wrap : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.2, : 
+rezultat_AES-128-CBC, : 
+rezultat_AES128 : z3xCbàs∑•8—≥ï¿ØthïÚÑô0Ò√ÖE
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.23, : 
+rezultat_AES-192-OFB : ¬ﬁò˜Ã(ÑM˛Äyø{;ﬁ àDÓ√}_!CÛôÉà£	¸;w–ù
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_1.3.111.2.1619.0.1.2, : 
+rezultat_AES-256-XTS : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.28, : 
+rezultat_AES-192-WRAP-PAD, : 
+rezultat_AES192-WRAP-PAD, : 
+rezultat_id-aes192-wrap-pad : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC-CTS : ûΩù-¡˜QZÓ¯Ãƒ(\Ú∂Nz4ÉÊ≈à…lx¶WÑÿÜ;Üí
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CBC-CTS : ˛¶Ìä3˜/=3S—pì˙¬n*®πïÌ&9aÚºÍ;/FãUüÆêª
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CBC-CTS : ;¯ÉíZñÏÄò`9}í˜hcÕzsœÃÕdS~ˇ”E∂,EMïõ
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CFB1 : âEˇê`˙‡‰∏§øπ‰%éJÏ6?‹¿ü&ø.kL“
+IQ⁄⁄ﬁ
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CFB1 : ç¥∂∫√ïåËâ“Ô⁄◊{{øÿ±ŸægπÖù¿]ásZ8}GXÊû
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CFB1 : ≥ÒâäÖÚ~SßÒv}äõæ@Œó.Ë\54∞ã©…0+¸ºü=1¯
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CFB8 : ÔÎ`s•gøF6R_ó∑qwû˙¿T¢“Ü,≠	t@â2ëˇﬂÉê
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CFB8 : Ωs‡Ï…6NY√û›Œímî–ãEu∫}Ω«€•lF∑¡,π§C‚a·
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CFB8 : u8\|kqV˝†Y2Ì‰¶äﬂõÆùÿpÆ÷IùÛóL¨Ú"?œ∑
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CTR : ™4-Î¸DFÚ ;âX”;ØA‘–8G∑sˆsëY
+0yCOhıΩ˙ã
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CTR : í”\p—B¶‹ﬂ=ò·+´:Ÿ‡ˆcyÊ™Ω´	D∆ÒEÒ˚¡VÁƒ”
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CTR : Æ÷z:s“>ÔËNás·ÃØ<I>∂†™ò£óHí6Ná≠˘_°Yékäó∏
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-OCB : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-OCB : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-OCB : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-SIV : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-SIV : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-SIV : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-256-WRAP-INV, : 
+rezultat_AES256-WRAP-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-192-WRAP-INV, : 
+rezultat_AES192-WRAP-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-128-WRAP-INV, : 
+rezultat_AES128-WRAP-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-256-WRAP-PAD-INV, : 
+rezultat_AES256-WRAP-PAD-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-192-WRAP-PAD-INV, : 
+rezultat_AES192-WRAP-PAD-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-128-WRAP-PAD-INV, : 
+rezultat_AES128-WRAP-PAD-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC-HMAC-SHA1 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CBC-HMAC-SHA1 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC-HMAC-SHA256 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CBC-HMAC-SHA256 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC : —rŸ≈‰AS¢S∆—fêª 
+rezultat_AES-128-CBC-HMAC-SHA1 : 
+rezultat_AES-128-CBC-HMAC-SHA256 : 
+rezultat_id-aes128-CCM : 
+rezultat_AES-128-CFB : ar»[qïË
+Ÿ≤C8∫X≈ÊS(¢O≤Ì
+rezultat_AES-128-CFB1 : †‘…«avz-õ¨ﬂ∏úi5oX·
+rezultat_AES-128-CFB8 : È∂äﬂ,[=HwÆÎá≈a±n;Ó
+rezultat_AES-128-CTR : ar»[qïË
+Ÿ≤C8∫XBÏ®Y≠d#Ÿ
+rezultat_AES-128-ECB : ?ã–)ÑèﬂäÁYÕ`I)
+rezultat_id-aes128-GCM : 
+rezultat_AES-128-OCB : 
+rezultat_AES-128-OFB : ar»[qïË
+Ÿ≤C8∫X/(» V˝ˇ∆
+rezultat_AES-128-XTS : 
+rezultat_AES-192-CBC : ∞5CÄ˛Ák[p9/Õ.s†)
+rezultat_id-aes192-CCM : 
+rezultat_AES-192-CFB : ∫çò\@g¯»tÚ¢ı$¸Ÿ‰£	∞⁄
+rezultat_AES-192-CFB1 : ›€¿Ñ`›àZ√)?SUßô°ΩÈ%äﬂ
+rezultat_AES-192-CFB8 : ÃÄ∞Ö‚ù{∆NT0WéŸ∑«Ú/©U
+rezultat_AES-192-CTR : ∫çò\@g¯»tÚ¢ı$¸òñe^q]
+rezultat_AES-192-ECB : i‡uø£<Ësö4∏©¿˛Øh
+rezultat_id-aes192-GCM : 
+rezultat_AES-192-OCB : 
+rezultat_AES-192-OFB : ∫çò\@g¯»tÚ¢ı$¸$ˇˇ˙Ø‘
+rezultat_AES-256-CBC : r??!;}?ûo™∑ΩÖG
+rezultat_AES-256-CBC-HMAC-SHA1 : 
+rezultat_AES-256-CBC-HMAC-SHA256 : 
+rezultat_id-aes256-CCM : 
+rezultat_AES-256-CFB : m,â¨?≈•¢'çs'ºˆ⁄ñØ_`d®
+rezultat_AES-256-CFB1 : F»™ì?]u‚À5ë“`¿}Õoà«/Å®≠
+rezultat_AES-256-CFB8 : mæÜeÆ»@ó3ÀVÈÅ«%aÍ€Ù
+rezultat_AES-256-CTR : m,â¨?≈•¢'çs'ºˆ⁄æ})πÜ˘◊
+rezultat_AES-256-ECB : ò2î[œ∂r~[k¬RíÖµ
+rezultat_id-aes256-GCM : 
+rezultat_AES-256-OCB : 
+rezultat_AES-256-OFB : m,â¨?≈•¢'çs'ºˆ⁄xkg∂˘
+rezultat_AES-256-XTS : 
+rezultat_aes128 : —rŸ≈‰AS¢S∆—fêª 
+rezultat_=> : 
+rezultat_AES-128-CBC : —rŸ≈‰AS¢S∆—fêª 
+rezultat_aes128-wrap : 
+rezultat_=> : 
+rezultat_id-aes128-wrap : 
+rezultat_aes192 : ∞5CÄ˛Ák[p9/Õ.s†)
+rezultat_=> : 
+rezultat_AES-192-CBC : ∞5CÄ˛Ák[p9/Õ.s†)
+rezultat_aes192-wrap : 
+rezultat_=> : 
+rezultat_id-aes192-wrap : 
+rezultat_aes256 : r??!;}?ûo™∑ΩÖG
+rezultat_=> : 
+rezultat_AES-256-CBC : r??!;}?ûo™∑ΩÖG
+rezultat_aes256-wrap : 
+rezultat_=> : 
+rezultat_id-aes256-wrap : 
+rezultat_id-aes128-CCM : 
+rezultat_id-aes128-GCM : 
+rezultat_id-aes128-wrap : 
+rezultat_id-aes128-wrap-pad : 
+rezultat_id-aes192-CCM : 
+rezultat_id-aes192-GCM : 
+rezultat_id-aes192-wrap : 
+rezultat_id-aes192-wrap-pad : 
+rezultat_id-aes256-CCM : 
+rezultat_id-aes256-GCM : 
+rezultat_id-aes256-wrap : 
+rezultat_id-aes256-wrap-pad : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.47, : 
+rezultat_aes-256-ccm, : 
+rezultat_id-aes256-CCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.3, : 
+rezultat_AES-128-OFB : ar»[qïË
+Ÿ≤C8∫X/(» V˝ˇ∆
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.1, : 
+rezultat_AES-128-ECB : ?ã–)ÑèﬂäÁYÕ`I)
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.46, : 
+rezultat_aes-256-gcm, : 
+rezultat_id-aes256-GCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.24, : 
+rezultat_AES-192-CFB : ∫çò\@g¯»tÚ¢ı$¸Ÿ‰£	∞⁄
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.5, : 
+rezultat_AES-128-WRAP, : 
+rezultat_AES128-WRAP, : 
+rezultat_id-aes128-wrap : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_1.3.111.2.1619.0.1.1, : 
+rezultat_AES-128-XTS : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.4, : 
+rezultat_AES-128-CFB : ar»[qïË
+Ÿ≤C8∫X≈ÊS(¢O≤Ì
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.6, : 
+rezultat_aes-128-gcm, : 
+rezultat_id-aes128-GCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.42, : 
+rezultat_AES-256-CBC, : 
+rezultat_AES256 : r??!;}?ûo™∑ΩÖG
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.45, : 
+rezultat_AES-256-WRAP, : 
+rezultat_AES256-WRAP, : 
+rezultat_id-aes256-wrap : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.27, : 
+rezultat_aes-192-ccm, : 
+rezultat_id-aes192-CCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.43, : 
+rezultat_AES-256-OFB : m,â¨?≈•¢'çs'ºˆ⁄xkg∂˘
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.44, : 
+rezultat_AES-256-CFB : m,â¨?≈•¢'çs'ºˆ⁄ñØ_`d®
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.7, : 
+rezultat_aes-128-ccm, : 
+rezultat_id-aes128-CCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.26, : 
+rezultat_aes-192-gcm, : 
+rezultat_id-aes192-GCM : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.8, : 
+rezultat_AES-128-WRAP-PAD, : 
+rezultat_AES128-WRAP-PAD, : 
+rezultat_id-aes128-wrap-pad : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.41, : 
+rezultat_AES-256-ECB : ò2î[œ∂r~[k¬RíÖµ
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.22, : 
+rezultat_AES-192-CBC, : 
+rezultat_AES192 : ∞5CÄ˛Ák[p9/Õ.s†)
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.21, : 
+rezultat_AES-192-ECB : i‡uø£<Ësö4∏©¿˛Øh
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.48, : 
+rezultat_AES-256-WRAP-PAD, : 
+rezultat_AES256-WRAP-PAD, : 
+rezultat_id-aes256-wrap-pad : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.25, : 
+rezultat_AES-192-WRAP, : 
+rezultat_AES192-WRAP, : 
+rezultat_id-aes192-wrap : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.2, : 
+rezultat_AES-128-CBC, : 
+rezultat_AES128 : —rŸ≈‰AS¢S∆—fêª 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.23, : 
+rezultat_AES-192-OFB : ∫çò\@g¯»tÚ¢ı$¸$ˇˇ˙Ø‘
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_1.3.111.2.1619.0.1.2, : 
+rezultat_AES-256-XTS : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_2.16.840.1.101.3.4.1.28, : 
+rezultat_AES-192-WRAP-PAD, : 
+rezultat_AES192-WRAP-PAD, : 
+rezultat_id-aes192-wrap-pad : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC-CTS : `ø#^ÓTΩ3˜ﬁÎR‘ëÍ.™˜Vö6∆
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CBC-CTS : ©ﬁŒ˜Xû+Õ>…∑BÜ\UeØ©§\G˘Ö
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CBC-CTS : .g≥ÈX¨¢¿'l‚≠¬ä]:Tx(Æƒ
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CFB1 : F»™ì?]u‚À5ë“`¿}Õoà«/Å®≠
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CFB1 : ›€¿Ñ`›àZ√)?SUßô°ΩÈ%äﬂ
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CFB1 : †‘…«avz-õ¨ﬂ∏úi5oX·
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CFB8 : mæÜeÆ»@ó3ÀVÈÅ«%aÍ€Ù
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CFB8 : ÃÄ∞Ö‚ù{∆NT0WéŸ∑«Ú/©U
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CFB8 : È∂äﬂ,[=HwÆÎá≈a±n;Ó
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CTR : m,â¨?≈•¢'çs'ºˆ⁄æ})πÜ˘◊
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-CTR : ∫çò\@g¯»tÚ¢ı$¸òñe^q]
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CTR : ar»[qïË
+Ÿ≤C8∫XBÏ®Y≠d#Ÿ
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-OCB : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-OCB : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-OCB : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-SIV : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-192-SIV : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-SIV : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-256-WRAP-INV, : 
+rezultat_AES256-WRAP-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-192-WRAP-INV, : 
+rezultat_AES192-WRAP-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-128-WRAP-INV, : 
+rezultat_AES128-WRAP-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-256-WRAP-PAD-INV, : 
+rezultat_AES256-WRAP-PAD-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-192-WRAP-PAD-INV, : 
+rezultat_AES192-WRAP-PAD-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_{ : 
+rezultat_AES-128-WRAP-PAD-INV, : 
+rezultat_AES128-WRAP-PAD-INV : 
+rezultat_} : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC-HMAC-SHA1 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CBC-HMAC-SHA1 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-128-CBC-HMAC-SHA256 : 
+rezultat_@ : 
+rezultat_default : 
+rezultat_AES-256-CBC-HMAC-SHA256 : 
+rezultat_@ : 
+rezultat_default : 

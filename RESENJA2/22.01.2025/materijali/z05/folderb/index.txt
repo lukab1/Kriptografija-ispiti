@@ -1,0 +1,2 @@
+V	360122122633Z		01	unknown	/C=BA/ST=Republika Srpska/L=Banja Luka/O=Elektrotehnicki fakultet/OU=Katedra za racunarstvo i informatiku/CN=c1/emailAddress=c1@etf.com
+V	360122122651Z		02	unknown	/C=BA/ST=Republika Srpska/L=Banja Luka/O=Elektrotehnicki fakultet/OU=Katedra za racunarstvo i informatiku/CN=c2/emailAddress=c2@etf.com

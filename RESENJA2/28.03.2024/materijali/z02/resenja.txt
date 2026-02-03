@@ -1,0 +1,9 @@
+lozinka18.txt
+lozinka30.txt
+lozinka3.txt
+lozinka18
+lozinka30
+lozinka3
+1:lozinka18
+3:lozinka30
+2:lozinka3

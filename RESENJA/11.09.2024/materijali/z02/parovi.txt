@@ -1,0 +1,6 @@
+ulaz2.txt : otisak8.txt
+ulaz7.txt : otisak4.txt
+ulaz8.txt : otisak15.txt
+ulaz2=j.txt : otisak2.txt
+ulaz7=j.txt : otisak7.txt
+ulaz8=j.txt : otisak8.txt

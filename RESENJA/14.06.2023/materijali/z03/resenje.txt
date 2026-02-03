@@ -1,0 +1,1 @@
+otisak: otisak6.txt, ulaz: ulaz37.txt

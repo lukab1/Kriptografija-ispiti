@@ -1,0 +1,1 @@
+otisak6.txt, ulaz37.txt , -shake256

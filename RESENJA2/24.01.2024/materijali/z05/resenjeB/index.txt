@@ -1,0 +1,3 @@
+R	260126141548Z	260121142216Z,cessationOfOperation	01	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=Client`/emailAddress=client1@gmail.com
+R	260126141556Z	260121142324Z,keyCompromise	02	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=Client2/emailAddress=client2@gmail.com
+V	260126141604Z		03	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=Client3/emailAddress=client3@gmail.com

@@ -1,0 +1,79 @@
+kljuc: keystore10.p12.pem  , rezultat : 3WëÔõŸŒ§ìnïp"2Ş£ƒJµŸøæ\5Á*D	ô´úQxµ‰Òz“p%qRá GR«†¤¸|Ó–ìUŒ+rµå!^`–ªEg~–&¢^xÎ¥PÅcˆUÃ(-ûgË§â2‚´yÜïÃİb{N ‘‰Ñp¸·†W”ùì®Ú
+kljuc: keystore11.p12.pem  , rezultat : ÊÀ_ã[°ÌJA`:qñƒ¦$N˜LgîØL¸“¬ØíÖy#K(2zWÚáåJœ¬ŸöVA]ƒ]ÿëİ	”²‹×ñb»|ÅŠ²ıÙü5“»ú.d…®í,Á\‘gµŸÑŸÄÔ•À¶É|#÷óI+Ïfö[˜×xk|Â˜^î[å–÷×íÔõy3Q4¤Yìƒ!&ß?¾l£XKÉ`A&	ª…@qú¤¸~ş ‰Nkq«Š¢°õcIpq
+kljuc: keystore12.p12.pem  , rezultat : ß÷fø¿Tà÷8­"Ô&ªTÓx“ÉH6|Êo+§ğ´Å3rÀ¸õğdiIª1‚·bŞ°æ¶é‡à$í¸Ï|OeÎôN‚ßÀÌšªŸ	1ñ•Àü-¢s+n–òMìP¿Iw0O,-#5½Uk¿³@ÀÛ&ĞÌ;5Ö¨5I&ìÄ§FsW¿·N6¨¸•Y÷ó°ûÈ_-úÑ¹²Hâ\´õ.s‹°‹P”xšãk¶?Ó‹q†sMâ3Ga˜ûk4G1
+kljuc: keystore13.p12.pem  , rezultat : œ5Îs=‹pÕŸµVû^Ò±Š±Ï}¢•x-À·òzFef-Ä¯Íü!ê‹'X#?¾FJƒ^3#ğL›¾@d’Ä»qcî°Ï}ìoÍ)áL`g¶Lì+ÛI)‡¶-kÂƒxß\&iCä`Âî-´˜ë‰I_IÛò€Äe¸l­¤ËU`#ÀÕ”!–uÂ]pü¾.À¥#fÌèÄK<M_mç»¯¾Eò>dEÃéŞ•RÒü¾¬³[[æ48×Ä…,
+kljuc: keystore14.p12.pem  , rezultat : 0¿ÒvÛÒ4İ-õ„Õ€ºç‰å8še¤‹®Ûğ
+G:!½SUˆI\—ğ,H¼Iµ0O$şµ[çùP›2³¬OÄê}y®úMC¦!?ÍùÄC8nÍCÏAü€¼¯^Æµ$›˜ÂëŸàc3qŞ[:ÃÀú÷ÆTäğqü=+
+€¹õÈ©æß/E—ó´ÌˆV\^ñ …4—‰û—šõ¥û²j§ØË­´rÒFÌZ§µ×–ó8OÂ7'8ş
+kljuc: keystore15.p12.pem  , rezultat : F@„MªÆj,•µƒ´/Çq
+Siê¹Ö“şÀÚÆ"JÖ.8··Ò=pÙóàöîŞy$ÆvŠ,üåéÓe ŒKÂ-zxcÁh/"º¼ÏÁŞè¯*ôˆ|ÍmôËÀIòk‡ÍëÊouªì ß;’_7j4†Éú½\wZY‰ÇLœ”tÏÊù8j¼A® ÛÙ†µÌÜ0¹—wKeÏãƒQıÕAÓ‹;Åšêà>*×…¹z|l¢
+kljuc: keystore16.p12.pem  , rezultat : ÈğåÚ±B%éâ°å¿ŸÂ›Hj«5ôKiIûšÃ­fX?Š³g›-9ÄgQ†Æ$Úàø°[ğc(Vºıñ«Ô-;ıSI¸1¥/EyÃøQ±»¿Y4ó¦!8Ë›©Æy=6Ttªby´á=ók­å°Éš²k©,ğ”“ûaßkà©)HÍüË1ˆÜjÕT–QqßáóÇth¶NÂ~ÏÎ‚xÒã+L\Ò‘²¦å8{‹R¯Ad®ªG`BÀ¼
+kljuc: keystore17.p12.pem  , rezultat : ü?,‘‡}n­€.=Í`*ÏQöêj`í{ÿï|…±»cäFÎW°¾\ƒü÷lUes?yı:N-Sìª]î¹²[¡(¨´`ëJ¡¤5å–9Ø4Áì
+kljuc: keystore18.p12.pem  , rezultat : •Ù-÷ƒ×Ó.0÷I[Bƒ~’ÒÍÆû„…¦„Ë[K¸ºôÁùòv¦Li/4ç%V‹Œ’o„J>òwğ~R\ÔÔ
+kljuc: keystore19.p12.pem  , rezultat : USPJESNO STE OTKLJUCALI ENVELOPU!
+kljuc: keystore1.p12.pem  , rezultat : :÷6ş–ì6‹	EwjÉE¸ZdÎQŒ­AâÂf½,(gDóÀ
+kljuc: keystore20.p12.pem  , rezultat : áÄ9¹$ŒŞ[G|ÒÅƒ,“x†$ÂPÂM††ÅŠì†»wVîåëgb¬ë¿h½ŒYûÑcĞ/Ö0öŒµ7^Ñ¶xxDî®GóäÍ
+kljuc: keystore21.p12.pem  , rezultat : ûCy‹ÀPe†g÷, |@vvù–sîdy«ŞæA¦rˆ‚mbo|‚µJ¶Ë
+kljuc: keystore22.p12.pem  , rezultat : ‹nB@QP¦ĞêÜ:K÷ Ê•‹/U]—++ö+ôF'ÏNPà_oä]7B(‚ê¿sPgİŸ×ê€v/ŞÃ_ÅÚiiç±x(¶|Ö²hØœq¡Èåiv#³„†?\Ğ¯Ñ±¹¬‰Ek;'’­…ÖŠÅQâÄ˜ø?
+¹›æÂôMÂZôÏNŸ
+kljuc: keystore23.p12.pem  , rezultat : ûŸşCs•í:, š¼G­ƒäïÏ?”!Ùq2Êš»œ¼Íóy¾¥eˆ÷®=ĞĞºHŞ>"©cë†71õ]éd#VıøFu˜¹íã²	ô$c‚‘°Í§	zà«•Ö²ÒğxSÊ}ÊÃZi™^U‚$(·ÿ×ehZ©î×GR,7´*Á¸iOœêä§+ë÷¦½}4ÿ·©zMíHÁ·¿•ıÇ£(İb-¯¾’<g–ÜûY(ìmØglÛ
+kljuc: keystore24.p12.pem  , rezultat : ğu{»¥Ş—w6óq	ŠT×/6ğí^Ô§hæİ6Ü_¾K¸±n…_¾Ì;ë|ó`Buµ¨›BÇp%æf‚¡ÓnjgY6¸Yê3"¡hÈÛ…·êA'é2ã*8—ÂWà ˜¢dc`Ô¶ãó9Z¿)*oÂ_ÎËep/*VMëâ>¢ŸÇûm
+kljuc: keystore25.p12.pem  , rezultat : ÅŠŸ»~ùåÄ½Ì•™¤ö0Ækb6§	
+CgûhÜfRÛc!«ŞBB¬
+kljuc: keystore26.p12.pem  , rezultat : ãlÔƒfÃeV¼Üğo^Ù†Q3„	ßÂ|éO¥¾æì+j_ "ÚÙÆİ2úcAÛùe³„™¶@äá3İöCs¤iLÆï|lá‘‡‡øBÒ!ÄdL”ÎY·¡ºÓº›—„\«³ª‡ lD;`ªÿ×w{tUey?odß½³3ËßGFEJL°,¸®ú0,Ì>v3ô&îğøVHÿf
+	§•ó48+ZmÚvê
+kljuc: keystore27.p12.pem  , rezultat : é]µ6ù°Xò~"˜ ®†Ã&ûğ2>¯r~ÂóÅÚ~	Œà¶d¤<ƒºè5ìØ•ŠÓğ·İ7igh"¶šºğ‹ÙôER.ŞP>;?íbõ¯´õórã(ğ)MâõY!zìs@Æ]ÅVkŠ¯BêÆ¾‰³/?
+kljuc: keystore28.p12.pem  , rezultat : åà¿8=ãÀKò]»í•İ&0¥7=Ü[‡,26NAQˆqYåÊ—ÊjâÌU‰å9š¨O«ìûŸM„ÔoBœ×¹»_œöjŞì©Ó‹°_ºd'¼R¤Ÿ?&9Œ­2Ó×[Ğ„²½n­'RN7á$éÍ­´bSR@#*Ÿ”[£3¥rıqã³‘IBËç™Â¯HĞXàÉë¼ƒ"¬9 zŠ©©¶†'€^Æ¦±7îéPÙ¼TLë/^ÑåÑ'ÿ>¯rk)²ÿ(ê×Ç¿â‡Í	¡R…ïF1³@i¢Î•Î¤€Á…ãŒwôdYå×h
+kljuc: keystore29.p12.pem  , rezultat : `ƒÈ$¢dZ…1]&¼tÿ7%İz=Ğ'Àé¥m•0¼
+¹4öFq¢w
+kljuc: keystore2.p12.pem  , rezultat : ´í7Ìâ#ÌÎìÓaRøºIÍÊ/Êg·SàØ¨h
+kljuc: keystore30.p12.pem  , rezultat : ü-G¬ï°ú¾µàíFL¸sÔÎ‘à+èßf­M
+kljuc: keystore31.p12.pem  , rezultat : ›Í¤È”ÁK(Ôª?×¨™£)söy ¬À9à¡£ßù×ş×r•µLÚ[4ß™IGQ#›öQÓ€¿®¤Q>‹“RßÊ.AÌ;ìNqÁS1wóö:%èÃo Mƒğ¸,Ï&RnZJÚZ¸ØÛ|~‡&L…4í ±jprS#Öªà—…ú*L¶d†èşe¬üoˆ/Y 
+kljuc: keystore32.p12.pem  , rezultat : ¹%	h0ôÒHqÔ¨ÍHÎ)Íá'ÌMÛ5§í8>,ÖtŸ£üˆªÄ”TìK]mÍï§Š2I‡ºß¬*ûÔyCH?ø>~'
+OÒVÜ‘\u|šUô‡,s€$'sè•ú£xb‰÷tæPù7Ë.…(ü[t°X}ÇŞÀ¡ŸmÀ%úş|Â„Î~­h»§ĞÏ8ÓOR_§?A+à 5ì>á;ï0©Ì£î#İîæP§ıa±'OvÉv¯¼îê‘fWkİ•Ù‘‹uiÄµ¬²«,ãE±Ë›)óŞ‘;Ñ÷öà¸¨
+kljuc: keystore33.p12.pem  , rezultat : ı,*+X<°-¾êÍG¼u¶„ÏÔæÖ'q¼ÂóÀÅµú;_ï?ı†OÜ:6®I °T$ú
+kljuc: keystore34.p12.pem  , rezultat : ˆRxCá³Eâ¡¹I§3«äWºİšY\XÁüT‘Ó[Mô˜úïÂÒÇÎA³ûô
+šY‚Y~a-ä“¨%Äy.1bÿ®5ÌJj†Ä¼µØ¯I„ÌV„CnMšIXè]×Ğ2¯ŒÙ[£éûâñèğD`e.ÕBâ#Ån£2ù”6”—Æ‹õßjä^ÇÙë<ë¤c2ò^WÈÂBNÇŞ½Î¢xlÊÏN
+n¸É°ïSp•ÆvÚ“ÖÅOã¾0“Bù
+kljuc: keystore35.p12.pem  , rezultat : mZKÛ»„İºúÍTÂl%
+kljuc: keystore36.p12.pem  , rezultat : öââ›—„Íãİë³sšño¯E
+kljuc: keystore37.p12.pem  , rezultat : äGy¥†D;lˆÈõşÅšÃ&ZñÔÄ§7½éÉÁıIR¯­·–¶Ò)é§Hg=éCDd@Ër‰Ü/±çñéúrp¡ŠÅÅGhiæğ¬;o™ìK³5‘A¶~ˆG¦GƒqÀ'<;b„İíB´_¡Xz¤Sò\h4¼ êJ¢ék(ãš‘²_Ë•ç.?PÊ0³U]Ö_Àç‘wª2ùÿçœ	úm¥úè)©/%Y[8/¹Ğÿq	ñŸ'äÁøÂ3ıú¡h
+kljuc: keystore38.p12.pem  , rezultat : üF
+kljuc: keystore39.p12.pem  , rezultat : ’‘8ì+MqhùtEÛ®PíÜ¯iÔ‹}ï.k¯`²7²ì—’ŒÂE3ö¦rQ-¶
+kljuc: keystore3.p12.pem  , rezultat : ~9ôÚDö$}‡²DÇ„û”wÅ‹Hr}¤“à]6
+kljuc: keystore40.p12.pem  , rezultat : c˜`bğî¿-UrUêL+4L
+c‰‘_€wRa.øÿ’ìûxdÇ€Ûp½Ë]ÊÖ*_S=XŸz)´§í{Îóêa7$-ÁÃfol$§M:½I§şO~²GÁğ­0
+Ù|Š™kq+Æ¼Ğ¹š‡šêL¥ùÎŞ*ƒÙñ\şÒƒ¼n"£øZ¢zêÌŞcÄ˜µùróõw™Uµ¯I}p#‚Å•àÅÉ$=ª”°4‚ú¶)ëÒô]mü4o’FÉÑiD8g*†ªŞÙ#ÓÃ
+_Ù—9äé!©œ˜B$ª¶»íQ*_˜:2%_’<ß¬
+kljuc: keystore41.p12.pem  , rezultat : è£ğ¾ÚWå}7§¿ØÔ9¡xédD]|W„ıF”®Ãò‘ 0Ş®UÄ6Q“D2h«Æê@$¿•¸Ú‡ÊIÖ«š’	 Íô!;™èPÿ<†}Ãí(IF,P¹'ÌFİ#|3Ÿ­/×*ó«†ÿüj6Ñ,PÖÑÀèbÏ>ÉÜ—2FµN\2¬¬}©ç)1ˆŠTó¸8/h;pÿDÆÆÛúeBoXH[Æâ´İº–ásè2NÚfÎcåhLàª€'ÁÅÌÊÇ
+™FÙge“¾¡Ô~;.O•
+kljuc: keystore42.p12.pem  , rezultat : LÚz–÷µ=™¥•êk„ĞåfK¤Vx†©9›në*Ü­â0Vj®Iôµqã¼%ëà+v<Aâ²8µxÉ].°pâ¼"æ©ŒŠ_SrD		Ü†[ŒW«Ô›iô<zÌç™ıĞdxÔõxÑ“]‹{¾WbO¨ñqÈ0ŞŸîÂÂP.àÚÄM]ä(ˆn/g·¡Üî¾ı$r™¸>A¤,™ÑĞ&¶ª”j9´l#,ÿˆ‡©fN€8İ%¯±¸mÎäÙª_‹¼d¨\
+kljuc: keystore43.p12.pem  , rezultat : t:_+Í= Çû]§M–¼yåìÆ¿KQKXÈ¢€»·Ö¶}¥“C¾@å“<>AeÎ;õ¯Šòv°ˆ^·=}Ùô¿HÑ?cú]Eù«Kë×åøY¶+Q³â–¹NVçå» ³_´sïOüLq÷l %ëè¡£ò
+kJîƒ—Zv÷`›x&Ñ*)–ı²ØBÍ3Ï71
+kljuc: keystore44.p12.pem  , rezultat : 6E,°òjDó6xÇ†²Ëà§õÃÊ~gÂá*bfHc;7æØåt}¢¼N1:ûçØ}šw¦ rÄ§V&âª¤lÅètÈR—2ĞÏïˆ”èúûBƒŒÓÍ…áa·­“Y"
+2%[qCÈ4Ä~şŠÈC4NøŞ†şˆĞ[eÎqh`”7[F¹ˆ±İmÂêT‰óC*tˆÌŒ-+~€‘"ÆĞÀŒÏ·ƒqX•pÔÙ&¼—q/@{Fù©•J³ŒŒnÈul…ês—|ÿË[nWbhêòêöha•I…5>X˜¤¸şÜ2»ô'÷
+kljuc: keystore45.p12.pem  , rezultat : œZö0ü¿It«c§…;c—rÖ>
+,g¯Ëç\vjŞ
+Yäj‹I|TDÍÌŞX®›C`ñğH
+Ë4&)Ù·Tì†©îÚ®®æâ™;±Oó98«SI8pX¯?^Á@‚´&`+¯jÓ‘FöÒÎ¢—Müú¡âñv°|>k£˜‡ç6ú’›İ(4íä¹`GÔxS_ı‘¨z/Hö	Å™arôŸÊ•İ²“|Y/ˆEwtœÕ ù60ıkìœ2œ&üZccİf@à¨“tYÆd
+kljuc: keystore46.p12.pem  , rezultat : »‚@›M¢ù
+Å`'bü¶x£%¥M &à¾Ğ
+¬AÖ¶ï4ÉãËkyp
+kljuc: keystore47.p12.pem  , rezultat : :°—	I<¯
+kljuc: keystore48.p12.pem  , rezultat : j‚‚Ö‹kœğ¾Ì¼XÓ|oß–<ØH²¡ïÎäK\M(¦}×‹Q" %qÊ_€xKü¢İïŸ
+Ä
+ŒZù‡‰Ó®À”9â“ÚÉßÕ"°°Û¢ıŞ_¼¤·kğ^ªÄÂ.æ¯§I¢-GˆÃä•ç]®¼Ú0V5Ä'À“í;Ä
+kljuc: keystore49.p12.pem  , rezultat : •Yî–½Ò
+úvŒ–Ì-böƒfRm¾`iÃiœ@§ÉQ¾ê€1Nz²—Èø®4ÌãÂù•°	@ô¦ª¡ÓHÅbÅUš€
+VŞ³‡¥Nã$í•…ìLÊ‹Áˆ¿C)BJcPæ„PÊÊzÙº|V"äÅ`[)GkĞÒJÏj
+kljuc: keystore4.p12.pem  , rezultat : ¸RTşpüÒ9EËÅßdÌ!±»ØŞ3#%€€Í³4¡´:£|pËÎ›'å^®™
+<îôRGéÑ3JÇB½¼ÎÄÒsÈ²* M
+kljuc: keystore50.p12.pem  , rezultat : È{¾ÎdçA-Û52±´2&®N¿” Z 9G:DºÉ…Kç¾š/*>F32Q`¥éT+¢BòxÜO$ÁdæÚJV¯]á{ºËY‚€ÜIfğ*_¼½¿+u"¤ÔÜ-‹<v«‘úy·hÒnæcª6Aª"å
+kljuc: keystore5.p12.pem  , rezultat : ;Œ'<4óö±–t òôQ,ú Ç¬å~»©¡9V¸6L[Şƒt9*”Ìx1u›‚°íß¬UÀâEËÃqndÊĞ2<õ
+kljuc: keystore6.p12.pem  , rezultat : `ÿÂÔ/A²La·øYL´mel‹Œãço<ÌçœÌuœ£§Ó•Ç.¶Í
+İÄ°|Pãp®‘‹ë~‡E.{˜à¦;@@¿ÓGÊÇ/,P:™.[gKMÓÌÃOPv
+kljuc: keystore7.p12.pem  , rezultat : ßJÇó«Eª“Á¯NÍ2õma„ù6ƒçx¹’=Ò‚ÁÜ=Æ¿¨LrcÜ×¦$M„‘u5â86Uˆ{"­.
+kljuc: keystore8.p12.pem  , rezultat : ˆfÏa¸Ê£¹+{kaï•“½d=×­Uéc¸FKÑ'ÛµPL&¸xÏ~³Ùô
+kljuc: keystore9.p12.pem  , rezultat : ğ•çØ»šÖWÎ¸•f¢÷a#Ÿ‘×ƒœÍŞ•Mòû&ï¾Zµ4HŞØÖã|'™×íú“3ßÎ¥\}ŒÃÄ3Aë’~%«
+‚ax9líu„~nîsŸ]ËBÊRİú&ø‹‰ğª¥’¿ì®{RÉdÔu7.ì#šëlÍÌM4”
+õzÀyªaLC

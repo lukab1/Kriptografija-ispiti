@@ -1,0 +1,15 @@
+c1.csr
+	-
+The countryName field is different between
+CA certificate (BA) and the request (RS)
+
+c2.csr
+	-
+The emailAddress field needed to be supplied and was missing
+
+
+c3.csr
+	-
+The localityName field is different between
+CA certificate (Prijedor) and the request (Trebinje)
+

@@ -1,0 +1,4 @@
+r1.csr , ima netacan pseydonim, ETF, umijesto elektro
+
+The mandatory organizationalUnitName field was missing
+

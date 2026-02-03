@@ -1,0 +1,5 @@
+luka@luka-virtual-machine:~/Desktop/11.09.2024/materijali/z05$ openssl verify -CAfile root2ca.pem k2.crt
+C = BA, ST = RS, O = Elektrotehnicki fakultet, OU = ETF, CN = Marko Markovic, emailAddress = marko@mail.com
+error 20 at 0 depth lookup: unable to get local issuer certificate
+error k2.crt: verification failed
+

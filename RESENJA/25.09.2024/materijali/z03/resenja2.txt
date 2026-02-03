@@ -1,0 +1,24 @@
+algoritam: -chacha20, ulaz: , resenje: ÑËRA™%©s”vIŒÉé'K¾è"I
+algoritam: -des, ulaz: , resenje: 
+algoritam: -des-cbc, ulaz: , resenje: 
+algoritam: -des-cfb, ulaz: , resenje: 
+algoritam: -des-cfb1, ulaz: , resenje: 
+algoritam: -des-cfb8, ulaz: , resenje: 
+algoritam: -des-ecb, ulaz: , resenje: 
+algoritam: -des-ede, ulaz: , resenje: ¨>m{Xœ¶Ç–º7dâÒ
+algoritam: -des-ede-cbc, ulaz: , resenje: >“NñŞÔĞkm\¿ÇàİÏ(
+algoritam: -des-ede-cfb, ulaz: , resenje: ÁõÁ$Rv‘kíQ$´šöœ¡êçÎÓ¾„¯
+algoritam: -des-ede-ecb, ulaz: , resenje: ¨>m{Xœ¶Ç–º7dâÒ
+algoritam: -des-ede-ofb, ulaz: , resenje: ÁõÁ$Rv‘kÂ€Ê¼É^ÏpM6—]faÿ1
+algoritam: -des-ede3, ulaz: , resenje: Ulazni sadrzaj 73
+algoritam: -des-ede3-cbc, ulaz: , resenje: ÇôNÅ<{ºÿ[¶ÓÍ
+algoritam: -des-ede3-cfb, ulaz: , resenje: :O0ëÛÈ×kQ ce1á§û¥P^G
+algoritam: -des-ede3-cfb1, ulaz: , resenje: :«|àé0Ö?ñğ\™ÒÜ)BbÊdEJ
+algoritam: -des-ede3-cfb8, ulaz: , resenje: :ÄÃ'›kŞçb5YúøándvµK"
+algoritam: -des-ede3-ecb, ulaz: , resenje: Ulazni sadrzaj 73
+algoritam: -des-ede3-ofb, ulaz: , resenje: :O0ëÛÈ×Iˆíè“%aGqú{Öö£
+algoritam: -des-ofb, ulaz: , resenje: 
+algoritam: -des3, ulaz: , resenje: ÇôNÅ<{ºÿ[¶ÓÍ
+algoritam: -des3-wrap, ulaz: , resenje: 
+algoritam: -desx, ulaz: , resenje: 
+algoritam: -desx-cbc, ulaz: , resenje: 

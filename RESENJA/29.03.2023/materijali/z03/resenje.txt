@@ -1,0 +1,1 @@
+NADJENO, algoritam:-sha1 , kljuc: key44.key, potpis: potpis8.sign.dec

@@ -1,0 +1,2 @@
+otisak: otisak4.txt , datoteka: ulaz41.txt
+otisak: otisak3.txt , datoteka: ulaz1.txt

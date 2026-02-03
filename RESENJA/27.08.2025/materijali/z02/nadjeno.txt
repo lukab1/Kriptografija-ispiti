@@ -1,0 +1,1 @@
+NADJENO, -aes-256-ecb i ulaz37.txt

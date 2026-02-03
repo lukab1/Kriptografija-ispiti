@@ -1,0 +1,6 @@
+algoritam: -blake2b512, ulaz: ulaz41.txt, otisak: dec_otisak4.txt
+algoritam: -blake2b512, ulaz: ulaz41.txt, otisak: dec_otisak4.txt
+algoritam: -md5, ulaz: ulaz22.txt, otisak: dec_otisak2.txt
+algoritam: -sha3-224, ulaz: ulaz1.txt, otisak: dec_otisak3.txt
+algoritam: -shake256, ulaz: ulaz23.txt, otisak: dec_otisak1.txt
+algoritam: -ssl3-md5, ulaz: ulaz22.txt, otisak: dec_otisak2.txt
