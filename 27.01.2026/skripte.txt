@@ -1,0 +1,100 @@
+s2.sh
+
+#!/bin/bash
+
+ulazi=$(ls ./ | grep "ulaz")
+
+for ulaz in $ulazi; do
+    result=$(openssl dgst -blake2s256 "$ulaz" | sed 's/[^=]*= //')
+    
+    if [[ "$result" = "$(cat "kontrolni_hash.txt")" ]]; then
+        echo "$ulaz" >> resenje.txt
+        break
+    fi
+done
+
+#ulaz12.txt
+
+kljuc=$(openssl dgst -sha1 ulaz12.txt | sed 's/[^=]*= //')
+
+openssl enc -d -aes-192-ctr -in "sifrat.txt" -out "resenje2.txt" -k "$kljuc"
+
+#Ulazni sadrzaj 12
+
+s3.sh
+
+#!/bin/bash
+
+keystores=$(ls ./ | grep ".jks")
+
+for keystore in $keystores; do
+    keytool -importkeystore -srckeystore "$keystore" -srcstoretype JKS -destkeystore "$keystore.p12" -deststoretype PKCS12 -srcstorepass sigurnost -deststorepass sigurnost
+done
+
+mkdir -p keys
+
+keystores2=$(ls ./ | grep "p12")
+
+for keystore in $keystores2; do
+    openssl pkcs12 -in $keystore -nodes -nocerts -passin pass:sigurnost -out "keys/$keystore.key" -legacy
+done
+
+kljucevi=$(ls keys/ | grep "key")
+
+for key in $kljucevi; do
+    result=$(openssl rsautl -in "envelopa.txt" -decrypt -inkey "keys/$key")
+    echo "$key , $result" >> resenje.txt
+done
+
+#keystore41.jks.p12.key , ï»¿BRZO NA SLJEDECI ZADATAK ;-)
+
+s4.sh
+
+#!/bin/bash
+
+signatures=$(ls ./ | grep "signature")
+
+for signature in $signatures;do
+    result=$(openssl dgst -sha256 -prverify "privatni_kljuc.pem" -signature "$signature" ulaz.txt)
+
+    if echo "$result" | grep "OK"; then
+
+        echo "$signature" >> resenja.txt
+        break
+    fi
+done
+
+#signature75.txt
+
+s5.sh
+
+#!/bin/bash
+
+myKeyModulus=$(openssl rsa -in "client.key" -modulus -noout)
+
+sertifikati=$(ls ./ | grep "crt")
+
+for sertifikat in $sertifikati; do
+
+    sertModulus=$(openssl x509 -in "$sertifikat" -modulus -noout)
+
+    if [[ "$myKeyModulus" = "$sertModulus" ]]; then
+
+        echo "$sertifikat" >> resenje.txt
+    fi
+
+
+done
+#
+#client24.crt
+
+mkdir -p folder 
+
+cp ca.crt client.key client24.crt folder
+#kopirati ca.crt, client.key i client24.crt u folder
+
+openssl pkcs12 -export -in "folder/client24.crt" -out "folder/client24.p12" -inkey "folder/client.key" -certfile "folder/ca.crt"
+
+#dopisati samo password, kad zatrazi u terminalu, npr. sigurnost
+
+#poslije ovoga, importovati sertifikat u web browser, ako je uspjesno, izaci ce prozor sa potvrdom (prof hostuje tomcat server...)
