@@ -1,0 +1,49 @@
+u terminalu:
+
+mkdir {certs,crl,newcerts,private,requests}
+touch {index.txt,crlnumber,serial}
+
+openssl pkcs12 -in store27.p12 -nocerts -passin pass:sigurnost -out private/kljuc50.key -noenc
+
+openssl req -new -x509 -key private/kljuc50.key -out cacert.pem -config openssl.cnf
+
+openssl genrsa -out private/client1.key 2048
+openssl genrsa -out private/client2.key 2048
+
+openss req -new -key private/client1.key -out requests/client1.csr -config openssl.cnf
+
+openss req -new -key private/client2.key -out requests/client2.csr -config openssl.cnf
+
+openssl ca -in requests/client1.csr -out client1.crt -config openssl.cnf
+
+openssl ca -in requests/client2.csr -out client2.crt -config openssl.cnf
+
+openssl pkcs12 -export -in client1.crt -out client1.p12 -inkey private/client1.key -certfile cacert.pem
+
+openssl pkcs12 -export -in client2.crt -out client2.p12 -inkey private/client2.key -certfile cacert.pem
+
+keytool -importcert -keystore store27.p12 -alias klijet1 -file client1.crt -storepass sigurnost -noprompt -trustcacerts
+
+keytool -importcert -keystore store27.p12 -alias klijet2 -file client2.crt -storepass sigurnost -noprompt -trustcacerts
+
+keytool -importkeystore -srckeystore store27.p12 -deskeystore store27.jks -srcstoretype pkcs12 -deststoretype jks -srcstorepass sigurnost -deststorepass sigurnost
+
+Dodati u .xml 
+
+     <Connector port="8443" 
+               protocol="HTTP/1.1" 
+               SSLEnabled="true"
+               maxThreads="150" 
+               scheme="https" 
+               secure="true" 
+               clientAuth="true" 
+               sslProtocol="TLS"
+               keystoreFile="store27.jks"
+               keystorePass="sigurnost"
+               truststoreFile="store27.jks"
+               keystorePass="sigurnost"          
+	/>
+
+Moguce greske, PROCITAJ.txt je pisan dodatno
+
+Za provjeru ovakvih zadataka, instalirao sam tomcat server, mijenjao tamo server.xml i dodao keystorove/truststorove...

@@ -1,0 +1,42 @@
+u terminalu:
+
+mkdir {certs,crl,newcerts,private,requests}
+touch {index.txt,crlnumber,serial}
+
+
+#izmijeniti openssl.cnf , ako treba ca:TRUE, onda #[user_cert] i staviti ca:TRUE, ili private/kljuc50.key, #zavisi gdje se stavi 
+
+
+openssl req -new -x509 -key kljuc50.key -out cacert.pem -config openssl.cnf
+
+openssl genrsa -out private/client1.key 2048
+openssl genrsa -out private/client2.key 2048
+
+openss req -new -key private/client1.key -out requests/client1.csr -config openssl.cnf
+
+openss req -new -key private/client2.key -out requests/client2.csr -config openssl.cnf
+
+openssl ca -in requests/client1.csr -out client1.crt -config openssl.cnf
+
+openssl ca -in requests/client2.csr -out client2.crt -config openssl.cnf
+
+openssl ca -revoke client1.crt -config openssl.cnf -crl_reason certificateHold
+
+openssl ca -revoke client2.crt -config openssl.cnf -crl_reason cessationOfOperation
+
+openssl ca -gencrl -out crl/lista1.crl -config openssl.cnf
+
+#pregled liste
+
+openssl crl -in crl/lista1.crl -noout -text
+
+ZA vracanje sertifikata iz suspenzije index.txt i pogledati video kako prof. vraca rucno sertifikat iz suspenzije (brisanje datuma i razloga, R zameniti sa V)
+
+openssl ca -gencrl -out crl/lista2.crt -config openssl.cnf
+
+openssl crl -in crl/lista2.crl -noout -text
+
+#suspenzija=certificateHold
+
+Moguce greske!, PROCITAJ.TXT je pisana dodatno
+
