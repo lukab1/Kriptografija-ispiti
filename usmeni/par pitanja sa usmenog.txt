@@ -1,0 +1,14 @@
+1. Diffie-Hellman objasniti (cijela lekcija) i nedostaci, kako se rjesavaju problemi...
+2. Sta je bolje koristiti OCSP ili CRL liste, koja je razlika? Ukoliko imamo 10 000 zathejva, da li bi radije koristio OCSP ili CRL listu. (rekao, zavisi sta nam treba, sigurnost, brzina, jer OCSP (ako je crl lista) odma mi trebao biti azuriran, dok CRL lista ne bas, te ako koristimo OCSP , tada moramo da projerimo 10 000 zahtjeva, i ako pod napadom...)
+3. Digitalna envelopa, ukoliko dodje do kompromitacije oba kljuca, koliko poruka moze da se otkrije. A sta ako je kompromitovan samo jedan?
+4. Velicine kljuceva i blokova za DES,3DES,AES, MICKEY(eStream, trik pitanje) i Snesto, RC4( trik pitanje, stream cipher)
+5. Zasto double des nije pogodan objasniti (ne moze se reci samo zbog 'meet in the middle')
+
+1. Koji su fundamentalni zahtjevi i objasniti (Uvod...)
+	1.1 Kako se osigurava autenticnost, neporecivost...
+2. Zasto ne moze Double des
+
+1. TimeStamp Authority,sta je, kako radi, objasniti slike.
+2. Sta sve sadrzi CRL i kako funckionise.
+3. Kako se verifikuje digitalni potpis.
+4. Ako sertifikat istekne, te pokusas verifikovati potpis, sta se desava.
